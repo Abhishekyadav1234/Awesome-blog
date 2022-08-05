@@ -1,0 +1,83 @@
+*{
+    margin:0px;
+}
+.header{
+    width: 100%;
+    height: 200vh;
+    background-color: blue;
+}
+#title{
+    width: 95%;
+    height: 130vh;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top:25px ;
+}
+#title li{
+    display: inline-block;
+
+}
+#title a{
+    margin-left: 970px;
+}
+#title h3{
+    margin-top: 20px;
+}
+
+ img{
+    width: 100%;
+    height: 30vh;
+    margin-top: 40px;
+}
+.content_links{
+    width: 100%;
+    height: 40vh;
+    /* border-radius: 1px solid red;
+    background-color:brown; */
+    }
+    .content{
+        width: 60%;
+        height: 20vh;
+        margin-left: 20px;
+        /* background-color: aqua;
+        border-radius: 1px solid black; */
+        display:inline-block;
+        /* position: absolute; */
+    }
+#link  a{
+    margin-left: 0px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.links{
+    width: 30%;
+    height:13vh;
+    background-color: yellow; 
+ display:block;
+margin-left: 980px;
+/* margin-top:0px; */
+ 
+ 
+}
+.link_topic{
+    width:95%;
+    height:5vh ;
+    background-color: red;
+    margin: auto;
+    margin-top: 5px;
+}
+.link_topic h4{
+    text-align: center;
+}
+.copy_paste{
+    width: 100%;
+    margin-left: 20px;
+    /* height: 0vh; */
+    /* border-radius: 1px solid red;
+    background-color: blueviolet; */
+}
+#link2 a{
+    margin-left: 0px;
+}
